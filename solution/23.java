@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-public class Solution {
+class Solution23 {
 
     public int[] solution(String[] id_list, String[] report, int k) {
         // 신고당한 유저 - 신고 유저 집합을 저장할 해시맵

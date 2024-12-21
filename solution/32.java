@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Solution {
+class Solution32 {
 
     public int[] solution(int n, String[] words) {
         // ❶ 이미 사용한 단어를 저장하는 set

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution79 {
 
     public int solution(int[] d, int budget) {
         Arrays.sort(d); // ❶ 배열 d를 오름차순으로 정렬

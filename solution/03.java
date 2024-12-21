@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Solution {
+class Solution03 {
 
     public static int[] solution(int[] numbers) {
         HashSet<Integer> set = new HashSet<>(); // ❶ 중복 값 제거를 위한 해쉬셋 생성

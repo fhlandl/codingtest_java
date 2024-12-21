@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution47 {
 
     private static int max;
     private static int[] answer;

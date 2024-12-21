@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Solution {
+class Solution76 {
 
     private static final int INF = 20_001;
 

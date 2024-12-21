@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution27 {
 
     public int[] solution(String[] enroll, String[] referral, String[] seller, int[] amount) {
         // ❶ parent 해시맵. key는 enroll의 노드, value는 referral의 노드로 구성됨

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
-public class Solution {
+class Solution81 {
 
     public int solution(int k, int[] tangerine) {
         // ❶ 귤의 개수를 세는 HashMap 객체 생성

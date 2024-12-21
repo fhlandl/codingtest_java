@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution57 {
 
     private static class Node {
         int i, j, cost;

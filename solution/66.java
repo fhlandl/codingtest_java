@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution66 {
 
     // ❶ 보드의 경계좌표를 벗어나는지 확인하는 메소드
     private static boolean isInBounds(int x, int y, int dx, int dy) {

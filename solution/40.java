@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Solution {
+class Solution40 {
 
     private static class Node {
         int dest, cost;

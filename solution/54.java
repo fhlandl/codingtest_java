@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution54 {
 
     public int[] solution(int[] array, int[][] commands) {
         int[] answer = new int[commands.length];

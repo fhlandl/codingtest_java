@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Solution {
+class Solution42 {
 
     private static boolean[] visited;
     private static ArrayList<Integer>[] adjList;

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Code324A_길찾기게임 {
+class Code324A_길찾기게임 {
 
     // ❶ Node 클래스 정의
     private static class Node {

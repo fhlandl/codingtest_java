@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution59 {
 
     public static void main(String[] args) {
         int[][] arr1 = {

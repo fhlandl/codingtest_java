@@ -1,4 +1,4 @@
-class Solution {
+class Solution84{
 
     public static void main(String[] args) {
         System.out.println(solution(4, 1, new int[]{0}, new int[]{0}));

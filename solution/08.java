@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-class Solution {
+class Solution08{
 
     private boolean solution(String s) {
         ArrayDeque<Character> stack = new ArrayDeque<>();

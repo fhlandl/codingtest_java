@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-public class Solution {
+class Solution15 {
 
     public static void main(String[] args) {
         System.out.println(solution(5, 2));

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Solution {
+class Solution04 {
 
     public static int[] solution(int[] answers) {
         // ❶ 수포자들의 패턴

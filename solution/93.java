@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-class Solution {
+class Solution93{
 
     public int solution(int[] queue1, int[] queue2) {
         long sum1 = 0, sum2 = 0;

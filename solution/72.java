@@ -1,4 +1,4 @@
-public class Solution {
+class Solution72 {
 
     public int solution(int[][] triangle) {
         int n = triangle.length;

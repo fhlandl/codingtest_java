@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.stream.Collectors;
 
-public class Solution {
+class Solution31 {
 
     public int solution(int[] nums) {
         // ❶ nums 리스트에서 중복을 제거한 집합(set)을 구함

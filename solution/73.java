@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution73 {
 
     int solution(int[][] land) {
         // ❶ 각 행마다 이전 행에서의 최대 점수를 더해가며 최대 점수를 구합니다.

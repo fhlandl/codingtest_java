@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Stack;
 
-public class Solution {
+class Solution14 {
 
     public String solution(int n, int k, String[] cmd) {
         // ❶ 삭제된 행의 인덱스를 저장하는 스택

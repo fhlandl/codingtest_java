@@ -1,4 +1,4 @@
-public class Solution {
+class Solution83 {
 
     public static void main(String[] args) {
         System.out.println(solution(3,4,2,3,3	,1,5));

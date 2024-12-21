@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class Solution {
+class Solution07 {
 
     // ❶ 좌표평면을 벗어나는지 체크하는 메소드
     private static boolean isValidMove(int nx, int ny) {

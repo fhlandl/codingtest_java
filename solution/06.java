@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution06 {
 
     public int[] solution(int N, int[] stages) {
         // ❶ 스테이지별 도전자 수를 구함

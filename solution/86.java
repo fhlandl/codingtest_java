@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
-class Solution {
+class Solution86{
 
     public static void main(String[] args) {
         System.out.println(Arrays.toString(solution(new String[]{"1110","100111100","0111111010"})));

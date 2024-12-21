@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Solution {
+class Solution56 {
 
     public int[] solution(String s) {
         // ❶ 문자열 s에서 대괄호를 제거하고 ","을 기준으로 나누어 배열에 저장한 후 길이 기준으로 오름차순 정렬합니다.

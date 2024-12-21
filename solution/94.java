@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class Solution94{
 
     public int solution(int[] A, int[] B) {
         Arrays.sort(A);

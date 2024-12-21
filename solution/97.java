@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-class Solution {
+class Solution97{
     public int[] solution(int[] lottos, int[] win_nums) {
         HashSet<Integer> win = new HashSet<>();
         for (int winNum : win_nums) {

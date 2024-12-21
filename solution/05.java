@@ -1,4 +1,4 @@
-public class Solution {
+class Solution05 {
 
     public int[][] solution(int[][] arr1, int[][] arr2) {
         // ❶ 행렬 arr1과 arr2의 행과 열의 수

@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-public class Solution {
+class Solution41 {
 
     private static class Node {
         int x, y, direction, cost;

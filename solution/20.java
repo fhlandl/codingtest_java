@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution20 {
 
     public int solution(String[] want, int[] number, String[] discount) {
         // ❶ want, number배열의 값을 해시맵에 저장

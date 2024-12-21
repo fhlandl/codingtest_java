@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class Solution {
+class Solution49 {
 
     // 백트래킹을 위한 재귀 메소드의 반환값을 저장함
     private static class Result {

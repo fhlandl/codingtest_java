@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Solution {
+class Solution21 {
 
     private String[] solution(String[] record) {
         // Enter/Leave 메세지를 저장할 해시맵 생성

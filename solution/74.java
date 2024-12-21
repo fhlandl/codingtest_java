@@ -1,4 +1,4 @@
-public class Solution {
+class Solution74 {
 
     public int solution(int[] money) {
         // ❶ 점화식에 필요한 변수를 초기화

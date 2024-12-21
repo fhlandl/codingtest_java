@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Solution {
+class Solution87{
 
     public static void main(String[] args) {
         int[][] a1 = {{1, 1, 0, 0}, {1, 0, 0, 0}, {1, 0, 0, 1}, {1, 1, 1, 1}};

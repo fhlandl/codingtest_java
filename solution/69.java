@@ -1,4 +1,4 @@
-public class Solution {
+class Solution69 {
 
     public static void main(String[] args) {
         int[][] arr1 = {{1, 3, 3, 2}, {2, 1, 4, 1}, {1, 5, 2, 3}};

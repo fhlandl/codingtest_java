@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution48 {
 
     private static int length, answer;
     private static int[] Weak;

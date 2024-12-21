@@ -1,4 +1,4 @@
-public class Solution {
+class Solution71 {
 
     public int solution(int n) {
         // ❶ 동적 계획법을 위한 배열 초기화

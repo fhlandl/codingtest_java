@@ -1,4 +1,4 @@
-public class Solution {
+class Solution82 {
 
     public int solution(int n, int[] stations, int w) {
         int answer = 0;

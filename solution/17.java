@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
-public class Solution {
+class Solution17 {
 
     public String solution(String[] cards1, String[] cards2, String[] goal) {
         // cards와 goal을 deque로 변환

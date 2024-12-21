@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Solution {
+class Solution43 {
 
     public static void main(String[] args) {
         System.out.println(solution(5));

@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
-class Solution {
+class Solution10{
 
     public static int solution(String s) {
         // ❶ 괄호 정보를 저장함. 코드를 간결하게 할 수 있음

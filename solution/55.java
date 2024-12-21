@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Solution {
+class Solution55 {
 
     public String solution(int[] numbers) {
         // ❶ int형 정수 배열을 문자열로 바꾸어 list에 저장합니다.

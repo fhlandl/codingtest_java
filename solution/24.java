@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution {
+class Solution24 {
 
     // 만들 수 있는 메뉴 구성과 총 주문 수를 저장할 해시맵
     private static HashMap<Integer, HashMap<String, Integer>> courseMap;

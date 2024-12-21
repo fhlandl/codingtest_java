@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class Solution {
+class Solution63 {
 
     public int solution(int[] topping) {
         // ❶ 결과값을 저장할 변수 초기화

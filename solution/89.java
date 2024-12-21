@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.regex.Pattern;
 
-class Solution {
+class Solution89{
 
     public static void main(String[] args) {
         String[] user_id_3 = {"frodo", "fradi", "crodo", "abc123", "frodoc"};

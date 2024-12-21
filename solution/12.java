@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class Solution {
+class Solution12{
 
     public static int[] solution(int[] prices) {
         int n = prices.length;

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution78 {
 
     public static void main(String[] args) {
         int[][] items1 = {{10, 19}, {7, 10}, {6, 10}};

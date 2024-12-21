@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class Solution {
+class Solution19 {
 
     public String solution(String[] participant, String[] completion) {
         // ❶ 해시맵 생성

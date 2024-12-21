@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class Solution {
+class Solution16 {
 
     public int[] solution(int[] progresses, int[] speeds) {
         Queue<Integer> answer = new ArrayDeque<>();

@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
 
-public class Solution {
+class Solution22 {
 
     public int[] solution(String[] genres, int[] plays) {
         HashMap<String, ArrayList<int[]>> genreMap = new HashMap<>();

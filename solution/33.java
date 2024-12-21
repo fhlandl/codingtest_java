@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution33 {
 
     private static int[] parent;
 

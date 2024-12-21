@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Solution {
+class Solution80 {
 
     public int solution(int[] people, int limit) {
         Arrays.sort(people); // ❶ 몸무게를 오름차순으로 정렬

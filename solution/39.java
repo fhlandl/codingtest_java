@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-public class Solution {
+class Solution39 {
 
     // ❶ 위, 아래, 왼쪽, 오른쪽 이동 방향
     private static final int[] dx = {0, 0, -1, 1};

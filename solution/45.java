@@ -1,4 +1,4 @@
-public class Solution {
+class Solution45 {
 
     private static int answer;
     private static int[][] Dungeons;

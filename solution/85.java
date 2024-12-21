@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.StringTokenizer;
 
-class Solution {
+class Solution85{
 
     private static final int MONTH_OF_YEAR = 12;
     private static final int DAY_OF_MONTH = 28;

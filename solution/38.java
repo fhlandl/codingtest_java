@@ -1,4 +1,4 @@
-public class Solution {
+class Solution38 {
 
     private static boolean[] visit;
     private static int[][] computer;

@@ -1,4 +1,4 @@
-public class Solution {
+class Solution70 {
 
     public int solution(int n) {
         int[] fibo = new int[n + 1];

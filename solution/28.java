@@ -2,7 +2,7 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class Solution {
+class Solution28 {
 
     // 현재 위치, 양의 수, 늑대의 수 방문한 노드 저장을 위한 클래스
     private static class Info {

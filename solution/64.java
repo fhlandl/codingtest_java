@@ -1,4 +1,4 @@
-public class Solution {
+class Solution64 {
 
     public int[] solution(int brown, int yellow) {
         // ❶ 격자의 총 개수 (파란색 격자 + 흰색 격자)

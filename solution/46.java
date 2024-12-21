@@ -1,4 +1,4 @@
-public class Solution {
+class Solution46 {
 
     private static int N;
     private static boolean[] width;

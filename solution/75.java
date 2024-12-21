@@ -1,4 +1,4 @@
-public class Solution {
+class Solution75 {
 
     public int solution(int [][]board) {
         // ❶ 주어진 2차원 보드의 행과 열의 개수를 변수에 저장합니다.

@@ -1,4 +1,4 @@
-public class Solution {
+class Solution62 {
 
     public int[] solution(String s) {
         // ❶ 이진 변환 횟수를 저장하는 변수

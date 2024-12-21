@@ -1,4 +1,4 @@
-class Solution {
+class Solution88{
     public int solution(int[] numbers) {
         int answer = 45;
         for (int n : numbers)

@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Solution {
+class Solution13 {
 
     public int solution(int[][] board, int[] moves) {
         // ❶ 각 열에 대한 스택을 생성합니다.
