@@ -1,5 +1,8 @@
 import java.util.ArrayDeque;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/67259
+ */
 class Solution41 {
 
     private static class Node {

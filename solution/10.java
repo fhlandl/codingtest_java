@@ -1,6 +1,9 @@
 import java.util.ArrayDeque;
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/76502
+ */
 class Solution10{
 
     public static int solution(String s) {

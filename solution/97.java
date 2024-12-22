@@ -1,5 +1,8 @@
 import java.util.HashSet;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/77484
+ */
 class Solution97{
     public int[] solution(int[] lottos, int[] win_nums) {
         HashSet<Integer> win = new HashSet<>();

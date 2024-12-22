@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42885
+ */
 class Solution80 {
 
     public int solution(int[] people, int limit) {

@@ -1,6 +1,9 @@
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/77886
+ */
 class Solution86{
 
     public static void main(String[] args) {

@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/92342
+ */
 class Solution47 {
 
     private static int max;

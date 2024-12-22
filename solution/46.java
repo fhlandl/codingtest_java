@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12952
+ */
 class Solution46 {
 
     private static int N;

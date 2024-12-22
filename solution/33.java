@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42861
+ */
 class Solution33 {
 
     private static int[] parent;

@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/77486
+ */
 class Solution27 {
 
     public int[] solution(String[] enroll, String[] referral, String[] seller, int[] amount) {

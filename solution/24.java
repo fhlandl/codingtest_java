@@ -1,5 +1,8 @@
 import java.util.*;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/72411
+ */
 class Solution24 {
 
     // 만들 수 있는 메뉴 구성과 총 주문 수를 저장할 해시맵

@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/43162
+ */
 class Solution38 {
 
     private static boolean[] visit;

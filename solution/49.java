@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/92345
+ */
 class Solution49 {
 
     // 백트래킹을 위한 재귀 메소드의 반환값을 저장함

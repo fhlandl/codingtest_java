@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12979
+ */
 class Solution82 {
 
     public int solution(int n, int[] stations, int w) {

@@ -2,6 +2,9 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/92343
+ */
 class Solution28 {
 
     // 현재 위치, 양의 수, 늑대의 수 방문한 노드 저장을 위한 클래스

@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.Collections;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12933
+ */
 class Solution53 {
 
     public long solution(long n) {

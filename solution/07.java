@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/49994
+ */
 class Solution07 {
 
     // ❶ 좌표평면을 벗어나는지 체크하는 메소드

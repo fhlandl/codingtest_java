@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12978
+ */
 class Solution40 {
 
     private static class Node {

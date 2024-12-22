@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42842
+ */
 class Solution64 {
 
     public int[] solution(int brown, int yellow) {

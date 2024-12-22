@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12945
+ */
 class Solution70 {
 
     public int solution(int n) {

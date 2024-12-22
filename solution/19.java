@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42576
+ */
 class Solution19 {
 
     public String solution(String[] participant, String[] completion) {

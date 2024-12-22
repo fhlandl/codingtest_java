@@ -3,6 +3,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.stream.Stream;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42579
+ */
 class Solution22 {
 
     public int[] solution(String[] genres, int[] plays) {

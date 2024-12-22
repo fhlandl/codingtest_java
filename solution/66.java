@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/120861
+ */
 class Solution66 {
 
     // ❶ 보드의 경계좌표를 벗어나는지 확인하는 메소드

@@ -2,6 +2,9 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/92334
+ */
 class Solution23 {
 
     public int[] solution(String[] id_list, String[] report, int k) {

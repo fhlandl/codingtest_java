@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.HashSet;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12983
+ */
 class Solution76 {
 
     private static final int INF = 20_001;

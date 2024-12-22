@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42889
+ */
 class Solution06 {
 
     public int[] solution(int N, int[] stages) {

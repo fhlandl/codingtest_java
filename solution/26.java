@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12985
+ */
 class Solution26 {
 
     public int solution(int n, int a, int b) {

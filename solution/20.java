@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/131127
+ */
 class Solution20 {
 
     public int solution(String[] want, int[] number, String[] discount) {

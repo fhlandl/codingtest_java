@@ -1,6 +1,9 @@
 import java.util.ArrayDeque;
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/159994
+ */
 class Solution17 {
 
     public String solution(String[] cards1, String[] cards2, String[] goal) {

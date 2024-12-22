@@ -1,5 +1,8 @@
 import java.util.ArrayDeque;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/118667
+ */
 class Solution93{
 
     public int solution(int[] queue1, int[] queue2) {

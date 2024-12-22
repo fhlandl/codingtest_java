@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42840
+ */
 class Solution04 {
 
     public static int[] solution(int[] answers) {

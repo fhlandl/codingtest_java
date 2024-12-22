@@ -1,6 +1,9 @@
 import java.util.ArrayDeque;
 import java.util.Queue;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42586
+ */
 class Solution16 {
 
     public int[] solution(int[] progresses, int[] speeds) {

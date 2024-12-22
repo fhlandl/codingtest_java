@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.Stack;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/81303
+ */
 class Solution14 {
 
     public String solution(int n, int k, String[] cmd) {

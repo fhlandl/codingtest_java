@@ -1,5 +1,8 @@
 import java.util.HashSet;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/12981
+ */
 class Solution32 {
 
     public int[] solution(int n, String[] words) {

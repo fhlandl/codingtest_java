@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42892
+ */
 class Code324A_길찾기게임 {
 
     // ❶ Node 클래스 정의

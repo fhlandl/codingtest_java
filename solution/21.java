@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/42888
+ */
 class Solution21 {
 
     private String[] solution(String[] record) {

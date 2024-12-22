@@ -1,5 +1,8 @@
 import java.util.Arrays;
 
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/68936
+ */
 class Solution87{
 
     public static void main(String[] args) {

@@ -1,3 +1,6 @@
+/**
+ * https://school.programmers.co.kr/learn/courses/30/lessons/118668
+ */
 class Solution92{
 
     public static void main(String[] args) {
